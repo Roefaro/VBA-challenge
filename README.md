@@ -1,6 +1,10 @@
 
 ## Project Title: Stock Market Data Analysis using VBA
 
+### Background
+
+As you continue your journey towards becoming a proficient programmer and Excel expert, this project involves utilizing VBA scripting to analyze stock market data. This assignment will enhance your skills in VBA and Excel automation by creating scripts that process and analyze financial data across multiple worksheets.
+
 ### Project Objectives
 
 The primary objectives of this project are to:
@@ -48,6 +52,14 @@ This visual aid will help quickly identify trends and significant changes in sto
 
 - **Software**: Microsoft Excel
 - **Programming Language**: VBA (Visual Basic for Applications)
+
+### Resources
+
+Throughout this project, the following resources were instrumental:
+
+1. **Tutoring**: Personalized tutoring sessions provided valuable guidance on VBA scripting techniques and best practices.
+2. **Class Assignments**: Coursework and class assignments helped solidify foundational knowledge and practical application of Excel and VBA.
+3. **Stack Overflow**: The Stack Overflow community was an invaluable resource for troubleshooting code issues, finding solutions to specific problems, and learning from the experiences of other programmers.
 
 ### Conclusion
 
